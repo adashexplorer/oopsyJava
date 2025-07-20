@@ -13,15 +13,42 @@
 ---
 
 ## 🧱 Core Concepts Covered
+- ✅ Core principles of OOP
+     - Encapsulation
+     - Abstraction
+     - Inheritance
+     - Polymorphism
 - ✅ Classes & Objects
-- ✅ Constructors
-- ✅ Inheritance
-- ✅ Encapsulation
-- ✅ Abstraction
-- ✅ Polymorphism
-- ✅ Static vs Instance
 - ✅ Interfaces & Abstract Classes
-- ✅ Method Overloading & Overriding
+- ✅ Java Access Modifiers
+- ✅ Object class methods
+- ✅ Method overloading & Method overriding 
+- ✅ Constructors
+- ✅ Static vs Non-static 
+- ✅ `final`, `this` & `super` keyword
+- ✅ Encapsulation & Data Hiding
+- ✅ Object life cycle & garbage collection
+- ✅ Design Principles (SOLID & GRASP)
+- ✅ UML class diagrams
+- ✅ Common OOP design patterns
+- ✅ OOP in Java 8+
+- ✅ Composition & Inheritance
+- ✅ Object cloning & copying
+- ✅ Enums & Singleton OOP usage
+- ✅ Object Identity vs Object Equality
+- ✅ Object relationships in OOP
+- ✅ Immutability in OOP
+- ✅ Refactoring technique in OOP
+- ✅ OOPs with multithreading
+- ✅ Object serialization
+- ✅ Lazy initialization & Singleton patterns
+- ✅ Designing for testability
+- ✅ OOP Pitfalls & Anti-patterns
+- ✅ Principles of a good OOP API design
+- ✅ Sealed classes & Records (Java 14+)
+- ✅ Best practices in OOP
+- ✅ Real world OOP use cases in Java
+- 
 
 ---
 

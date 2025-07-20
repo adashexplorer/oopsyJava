@@ -93,27 +93,108 @@
         - I : Interface Segregation
         - D : Dependency Inversion
      - GRASP
-        - Creator, Controller, Low Coupling, High Cohesion etc etc
+        - Creator, Controller, Low Coupling, High Cohesion etc.
 - ✅ UML class diagrams
+     - Class diagrams
+     - Relationship types (association, aggregation, composition)
+     - Multiplicity, Inheritance arrows
+     - Modeling OOP structures
 - ✅ Common OOP design patterns
+     - Factory
+     - Singleton
+     - Strategy
+     - Observer
+     - Builder
+     - Decorator
+     - Adapter
+     - Template Method
 - ✅ OOP in Java 8+
+     - Functional Interfaces & Lambda expressions
+     - Streams with OOP models
+     - Default method in Interfaces
+     - Records (Java 14+)
+     - Sealed classes (Java 15+)
 - ✅ Composition & Inheritance
+     - Pros vs Cons
+     - Real example : Strategy Pattern, Delegation
+     - Avoiding tight coupling
 - ✅ Object cloning & copying
+     - Deep copy vs Shallow copy
+     - `clone()` method
+     - Copy constructors
+     - Serialization-based copying
+     - Manual deep copy
 - ✅ Enums & Singleton OOP usage
+     - Enum types & methods
+     - Enum as singleton
+     - Enum-based design patterns
 - ✅ Object Identity vs Object Equality
+     - Difference between `==`, `equals()` `hashcode()`
+     - Identity : same memory reference 
+     - Equality : same logical content
+     - contract between `equals()` and `hashcode()`
 - ✅ Object relationships in OOP
+     - Association
+     - Aggregation
+     - Composition
+     - Dependency
+     - Inheritance (already covered above, but this add nuance)
+     - use-cases examples & class diagrams for each
 - ✅ Immutability in OOP
+     - Why immutability matters ?
+     - How to design immutable class ?
+     - use of `final` + defensive copying
+     - `record` types in Java 14+ for immutability
 - ✅ Refactoring technique in OOP
+     - Extract class & Extract methods
+     - Replace Inheritance with Delegation
+     - Encapsulate field
+     - Push down / Pull up methods and fields
 - ✅ OOPs with multithreading
+     - Race condition on shared objects
+     - Synchronized methods & blocks
+     - `volatile` keyword & memory visibility
+     - Thread safe OOP design (immutable objects, thread confinement)
 - ✅ Object serialization
+     - `Serializable` interface
+     - How serialization breaks encapsulation
+     - How to secure serialization ?
+     - `Externalizable` vs `Serializable`
 - ✅ Lazy initialization & Singleton patterns
+     - Best practices for lazy instantiation
+     - Lazy loading in real world OOP systems
+     - Thread-safe singleton designs (enum, `Holder`, `Double-Checked locking`)
 - ✅ Designing for testability
+     - OOP designs that are test friendly
+     - Loose coupling via interfaces
+     - Dependency Injection (DI) basics
+     - Mocking objects using Interfaces
 - ✅ OOP Pitfalls & Anti-patterns
+     - God object
+     - Spaghetti code via overuse of inheritance
+     - Refused Bequest
+     - Circle-ellipse problem
+     - Anemic Domain model
 - ✅ Principles of a good OOP API design
+     - Fluent interface design
+     - Information hiding
+     - Consistent object construction patterns (Builder, Factory)
+     - Method chaining and return `this`
 - ✅ Sealed classes & Records (Java 14+)
+     - Sealed classes for controlled inheritance
+     - `record` for lightweight data carriers 
+     - When and where to use sealed hierarchies
 - ✅ Best practices in OOP
+     - Favor composition
+     - Avoid overuse of Inheritance
+     - `DRY` and `KISS` principles
+     - Law of Demeter (`LoD`)
 - ✅ Real world OOP use cases in Java
-- 
+     - Banking System
+     - Library Management
+     - Inventory Tracking
+     - E-commerce cart model
+     - Event-driven models (Pub-sub pattern)
 
 ---
 

@@ -126,3 +126,8 @@ public class BankAccountUseCase {
     }
 }
 ```
+
+
+> ## Core Difference between Abstraction & Encapsulation ?
+> Encapsulation is about wrapping data (variables) and code (methods) together, and restricting direct access to internal data using access modifiers.
+> Abstraction is about hiding internal implementation details and showing only the necessary functionality to the outside world.

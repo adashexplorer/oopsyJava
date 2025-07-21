@@ -57,6 +57,10 @@
 
 
 ## `public` keyword
+- The public access modifier is specified using the keyword `public`.
+- `Classes`, `data members`, `member functions` that are declared as public are accessible everywhere in the program. There is literally no restrictions on the scope of public attributes.
 
 
 ## `protected` keyword
+- The protected access modifier is specified using the keyword `protected` for `class`, `data members`, `member functions`.
+- The methods, data members declared as `protected` are only accessible within the same package or subclasses in different packages.

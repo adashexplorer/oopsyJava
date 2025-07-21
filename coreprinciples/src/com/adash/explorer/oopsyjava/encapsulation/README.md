@@ -28,4 +28,12 @@
 
 ## Disadvantages -
 - Sometimes, `encapsulation` can make code more complex and hard to understand if it is not used in right way.
+- Also, it can make more difficult for programmer to understand the code as most of it is completely hidden and not exposed outside.
+
+
+## Common practices -
+- Keep the class variables as `private` so that, no one outside the class can change them directly. `Use private fields`
+- Always use `getter` and `setter` to set and get the values. `Use getter & setter methods`
+- Always check the data inside setter methods before saving it to make sure it is correct. `Validate Data Before Modifying`
+- Use access modifiers the right way to hide what should be hidden and show what is needed. `Control access with modifiers`
 

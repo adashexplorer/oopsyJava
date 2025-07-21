@@ -7,7 +7,8 @@
 ## Key features of Abstraction :-
  - It hides the underlying implementation and only shows what the feature does
  - It can contain both `abstract` and `concrete` methods.
- - The abstract methods in Abstract class has to be implemented in child / subclasses by `extending` it.
+ - The abstract methods in Abstract class has to be implemented in child / subclasses by `extending` it in case of `abstract` classes and
+   by `implementing` it in case of `Interfaces`.
  - By abstracting functionality, changes in the implementation do not affect the code that depends on the abstraction as implementation
    is personal to the subclasses that is extending the Abstract classes.
  - In Java, Abstraction can be achieved by following two ways.
@@ -45,3 +46,9 @@
 
 
 ## What is the disadvantage if we don't use Abstraction :-
+
+
+
+
+
+# Interfaces -

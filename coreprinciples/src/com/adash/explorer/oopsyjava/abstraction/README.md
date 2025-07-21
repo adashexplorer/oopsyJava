@@ -42,3 +42,6 @@
 
 
 ## When to use Abstraction :-
+
+
+## What is the disadvantage if we don't use Abstraction :-
